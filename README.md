@@ -56,21 +56,28 @@ Source: CRISIL ESG Ratings (India's leading credit rating agency)
 Scale: 0–100 (higher = better ESG performance)
 Categories: Leadership, Strong, Adequate, Below Average
 
-#Analytical Methods
+Analytical Methods
 ---
 Descriptive Analysis & Distribution Characteristics
+
 Pearson & Spearman Correlations (full sample + industry-stratified)
+
 One-Way ANOVA with Tukey HSD Post-hoc Tests
+
 OLS Regression: Three nested models
+
 Model 1 (Baseline): Unadjusted DO -> ESG
+
 Model 2 (Industry FE): DO -> ESG + Industry Fixed Effects
+
 Model 3 (Sub-score Decomposition): Four dimensions -> ESG + Industry FE
+
 Divergence Quadrant Analysis: Median-split classification
 
 # Key Results
 ---
 1. Primary Finding: No Independent DO-ESG Relationship
-2. 
+   
 | Model                     | DO Coefficient | p-value       | R²        | Interpretation        |
 | ------------------------- | -------------- | ------------- | --------- | --------------------- |
 | **Model 1 (Baseline)**    | β = 0.145      | **p = 0.010** | 0.015     | Small but significant |
