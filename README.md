@@ -119,14 +119,17 @@ Quadrant Distribution (Median Splits):
 | Low DO / High ESG     | 84     | 19.2%     | ESG Leaders (no digital) |
 | **High DO / Low ESG** | **73** | **16.7%** | **Divergence**        |
 
-**Critical Finding*: High Digital / Low ESG companies cluster in Chemicals (10) and Capital Goods (10) — not in Financial Services and IT as hypothesized. This suggests digital tools in manufacturing do not automatically translate to sustainability outcomes.
+**Critical Finding**: High Digital / Low ESG companies cluster in Chemicals (10) and Capital Goods (10) — not in Financial Services and IT as hypothesized. This suggests digital tools in manufacturing do not automatically translate to sustainability outcomes.
 
 
-#Limitations
+Limitations
 ---
 Measurement: DO Scores are keyword-count based they measure what companies say about digital technology in annual reports, not necessarily what they do operationally.
+
 Data: Single year snapshot (FY2023-24); single ESG provider (CRISIL); 14 companies lack DO scores, 57 lack ESG ratings.
+
 Methodology: OLS assumes linearity; industry fixed effects control for average sector differences but not firm-level confounders (size, profitability, ownership structure).
+
 Generalizability: Findings are specific to the Indian regulatory context (BRSR) and may not generalize to other emerging or developed markets.
 
 
