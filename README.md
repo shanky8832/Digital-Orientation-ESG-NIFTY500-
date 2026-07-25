@@ -4,7 +4,7 @@ A Cross-Sector Analysis of Indian Listed Companies (NIFTY 500, FY2023-24)
 This study examines whether a company's Digital Orientation (DO) measured across four dimensions adapted from Kindermann et al. (2021), significantly predicts its Environmental, Social and Governance (ESG) performance among Nifty 500 companies for fiscal year 2023-24.
 Using Computer-Aided Text Analysis (CATA) applied to annual reports and CRISIL ESG ratings, the analysis covers 437 companies with both valid DO Scores and ESG Ratings.
 
-#Research Questions
+Research Questions
 ---
 Primary Research Question (PRQ)
 ---
@@ -45,9 +45,13 @@ Adapted from Kindermann et al. (2021), European Management Journal. The construc
 Normalization: 
 DO Score = (Sum of 4 sub-scores / Total words in report) × 1000
 ---
-Segmentation: Tertile splits based on 33rd (3.83) and 67th (6.44) percentiles:
+Segmentation: 
+Tertile splits based on 33rd (3.83) and 67th (6.44) percentiles:
+
 Low DO: < 3.83
+
 Medium DO: 3.83 – 6.44
+
 High DO: > 6.44
 
 **ESG Data**
