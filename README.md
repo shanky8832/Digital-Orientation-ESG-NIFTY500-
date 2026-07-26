@@ -59,7 +59,9 @@ High DO: > 6.44
 **ESG Data**
 ---
 Source: CRISIL ESG Ratings (India's leading credit rating agency)
+
 Scale: 0–100 (higher = better ESG performance)
+
 Categories: Leadership, Strong, Adequate, Below Average
 
 Analytical Methods
