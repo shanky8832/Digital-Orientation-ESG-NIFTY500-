@@ -12,8 +12,10 @@ Does digital orientation (measured across 4 dimensions) significantly predict ES
 
 Secondary Research Questions (SRQ)
 ---
-Q1: Which of the four digital orientation dimensions is most strongly associated with ESG performance?
+Q1: Which of the four digital orientation dimensions is most strongly associated with ESG performance? 
+
 Q2: Does the DO-ESG relationship vary significantly across sectors?
+
 Q3: Are there companies with high digital orientation but low ESG performance (or vice versa), and what industries do they cluster in?
 
 # Dataset 
