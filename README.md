@@ -140,5 +140,10 @@ Methodology: OLS assumes linearity; industry fixed effects control for average s
 
 Generalizability: Findings are specific to the Indian regulatory context (BRSR) and may not generalize to other emerging or developed markets.
 
+Tech Stack
+---
+Python (pandas, scipy, statsmodels)
 
+Excel (data preparation & validation)
 
+Computer-Aided Text Analysis (CATA)- deterministic whole-word/phrase matching
